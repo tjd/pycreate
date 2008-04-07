@@ -380,7 +380,7 @@ def run_doctest():
 def usage():
     print 'Simple Create Assembler'
     print '   Usage:'
-    print '     python filename.cas'
+    print '     python casm.py filename.cas'
     print '   Options:'
     print '     -h        print this help message'
     print '     -doctest  run internal doctests'
