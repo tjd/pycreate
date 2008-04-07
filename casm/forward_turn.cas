@@ -1,0 +1,6 @@
+;;; drives forward 400mm and then turns 90 degrees
+
+drive 32767        ;;; drive straight
+wait_distance 400  ;;; don't execute the next command until you've gone 400mm
+drive 300, 1       ;;; turn in-place counter-clockwise at 300 mm/s
+wait_angle 90      ;;; turn 90 degrees

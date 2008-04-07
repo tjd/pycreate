@@ -1,0 +1,6 @@
+drive 32767 ;;; drive straight
+wait_event 10 ;;; wait for cliff sensor
+drive 500 -1 ;;; turn clockwise at 500 mm/s
+wait_angle 180 ;;; until facing the other way
+drive 32767 ;;; drive straight
+wait_distance 500 ;;; for 500 mm
