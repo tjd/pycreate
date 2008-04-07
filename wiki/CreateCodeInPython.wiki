@@ -1,0 +1,11 @@
+We would like the following:
+
+   * A simple, but graphical, Create simulator written (e.g.) using pygame.
+
+   * A turtle-to-Create compiler that will convert turtle programs to Create code.
+
+   * An extension of the turtle package to handle Create-like commands, i.e.
+     `create.forward_left(percent)` and `create.forward_right(percent)` and
+     `create.forward(left = percent, right = percent)`.
+
+Be sure to look at the code in [http://code.google.com/p/pyrobot/ pyrobot project].
