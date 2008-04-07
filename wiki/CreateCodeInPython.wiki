@@ -11,4 +11,4 @@ Be sure to look at the code in [http://code.google.com/p/pyrobot/ pyrobot projec
 
 Also, the [http://www.irobot.com/sp.cfm?pageid=294 documentation for the Create Open Interface] is on-line, and quite readable.
 
-[casm http://code.google.com/p/pycreate/source/browse/trunk/casm] is a simple assembler for writing Open Interface programs.
+[casm http://code.google.com/p/pycreate/source/browse/trunk/casm] is a simple assembler for writing Open Interface programs. It still needs some work, and, especially, some more testing.
